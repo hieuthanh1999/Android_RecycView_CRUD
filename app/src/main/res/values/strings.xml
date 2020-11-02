@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MenXinhGai</string>
+    <string name="title">Mô tả đồng hồ</string>
+    <string name="madh">Mã HĐ</string>
+    <string name="tendh">Tên ĐH</string>
+    <string name="loaidh">Loại ĐH</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+    <string name="day">Dây</string>
+    <string name="kimloai">Kim Loại</string>
+    <string name="khuyenmai">Khuyến mãi</string>
+    <string name="sua">Sửa</string>
+    <string name="Them">Thêm</string>
+    <string name="dong">Đóng</string>
+</resources>
